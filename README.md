@@ -2,8 +2,8 @@ ML100
 ===
 ## create env with conda
 
-conda update conda
-conda create --name ml100 python=3.7
+* conda update conda
+* conda create --name ml100 python=3.7
 
 ## packages
 * conda install jupyter
