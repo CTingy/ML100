@@ -12,4 +12,5 @@ ML100
 * conda install opencv
 * conda install scipy
 * conda install scikit-learn scikit-image
+* conda install seaborn
 
